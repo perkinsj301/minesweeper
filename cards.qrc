@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="unclicked.png">./minesweeper_assets/unclicked.png</file>
+        <file alias="blank.png">./minesweeper_assets/blank.png</file>
+        <file alias="1.png">./minesweeper_assets/one.png</file>
+        <file alias="2.png">./minesweeper_assets/two.png</file>
+        <file alias="3.png">./minesweeper_assets/three.png</file>
+        <file alias="4.png">./minesweeper_assets/four.png</file>
+        <file alias="5.png">./minesweeper_assets/five.png</file>
+        <file alias="6.png">./minesweeper_assets/six.png</file>
+        <file alias="7.png">./minesweeper_assets/seven.png</file>
+        <file alias="8.png">./minesweeper_assets/eight.png</file>
+        <file alias="bomb.png">./minesweeper_assets/bomb.png</file>
+        <file alias="flag.png">./minesweeper_assets/flag2.png</file>
+    </qresource>
+</RCC>

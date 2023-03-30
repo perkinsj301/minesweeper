@@ -1,0 +1,33 @@
+{
+	"BUILD_DIR" : "C:/Users/perki/games/minesweeper/cmake-build-debug/minesweeper_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/perki/games/minesweeper/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/perki/games/minesweeper/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/perki/games/minesweeper",
+	"CMAKE_SOURCE_DIR" : "C:/Users/perki/games/minesweeper",
+	"INCLUDE_DIR" : "C:/Users/perki/games/minesweeper/cmake-build-debug/minesweeper_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/perki/games/minesweeper/minesweeper_assets/unclicked.png",
+		"C:/Users/perki/games/minesweeper/minesweeper_assets/two.png",
+		"C:/Users/perki/games/minesweeper/minesweeper_assets/three.png",
+		"C:/Users/perki/games/minesweeper/minesweeper_assets/four.png",
+		"C:/Users/perki/games/minesweeper/minesweeper_assets/seven.png",
+		"C:/Users/perki/games/minesweeper/minesweeper_assets/six.png",
+		"C:/Users/perki/games/minesweeper/minesweeper_assets/one.png",
+		"C:/Users/perki/games/minesweeper/minesweeper_assets/blank.png",
+		"C:/Users/perki/games/minesweeper/minesweeper_assets/flag2.png",
+		"C:/Users/perki/games/minesweeper/minesweeper_assets/eight.png",
+		"C:/Users/perki/games/minesweeper/minesweeper_assets/bomb.png",
+		"C:/Users/perki/games/minesweeper/minesweeper_assets/five.png"
+	],
+	"LOCK_FILE" : "C:/Users/perki/games/minesweeper/cmake-build-debug/CMakeFiles/minesweeper_autogen.dir/AutoRcc_cards_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "cards" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_cards.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.4.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/perki/games/minesweeper/cmake-build-debug/CMakeFiles/minesweeper_autogen.dir/AutoRcc_cards_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/perki/games/minesweeper/cards.qrc",
+	"VERBOSITY" : 0
+}
